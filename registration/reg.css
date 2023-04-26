@@ -1,0 +1,12 @@
+body{
+ background-image: url(https://images.pexels.com/photos/2274729/pexels-photo-2274729.jpeg?auto=compress&cs=tinysrgb&w=800);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.frm{
+    padding: 200px;
+}
+.usrlst{
+    padding-top: 210px;
+}
